@@ -1,2 +1,3 @@
 # Hacking-Design-AI-2020
-create by Sun Ying
+
+大家好，我是孙莺，现就读于同济大学设计创意学院，人工智能与数据设计专业。
